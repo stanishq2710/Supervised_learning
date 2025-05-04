@@ -43,14 +43,19 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-✨ Features
+## ✨ Features
 Beginner-friendly and modular code
+
 Clear visualizations and explanations
+
 Real-world dataset examples
+
 Ready-to-run notebooks
 
-📌 Use Cases
+## 📌 Use Cases
 Learn how supervised algorithms work
+
 Apply them on real datasets
-📢 Contributions Welcome
+
+## 📢 Contributions Welcome
 Feel free to fork, star, and contribute new models or improvements via pull requests.
