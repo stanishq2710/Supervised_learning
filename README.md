@@ -39,7 +39,7 @@ source venv/bin/activate  # For Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
-###4. Launch the Jupyter Notebook
+### 4. Launch the Jupyter Notebook
 ```bash
 jupyter notebook
 ```
